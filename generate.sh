@@ -1,0 +1,1 @@
+protoc chat/chatpb/chat.proto --go_out=plugins=grpc:.
